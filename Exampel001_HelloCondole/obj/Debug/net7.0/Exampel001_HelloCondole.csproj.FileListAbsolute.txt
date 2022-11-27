@@ -1,0 +1,15 @@
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\bin\Debug\net7.0\Exampel001_HelloCondole.exe
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\bin\Debug\net7.0\Exampel001_HelloCondole.deps.json
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\bin\Debug\net7.0\Exampel001_HelloCondole.runtimeconfig.json
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\bin\Debug\net7.0\Exampel001_HelloCondole.dll
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\bin\Debug\net7.0\Exampel001_HelloCondole.pdb
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\obj\Debug\net7.0\Exampel001_HelloCondole.csproj.AssemblyReference.cache
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\obj\Debug\net7.0\Exampel001_HelloCondole.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\obj\Debug\net7.0\Exampel001_HelloCondole.AssemblyInfoInputs.cache
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\obj\Debug\net7.0\Exampel001_HelloCondole.AssemblyInfo.cs
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\obj\Debug\net7.0\Exampel001_HelloCondole.csproj.CoreCompileInputs.cache
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\obj\Debug\net7.0\Exampel001_HelloCondole.dll
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\obj\Debug\net7.0\refint\Exampel001_HelloCondole.dll
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\obj\Debug\net7.0\Exampel001_HelloCondole.pdb
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\obj\Debug\net7.0\Exampel001_HelloCondole.genruntimeconfig.cache
+D:\2.Проекты\GeekBrains\03. Введение в програмирвоание С#\Examples\Exampel001_HelloCondole\obj\Debug\net7.0\ref\Exampel001_HelloCondole.dll
