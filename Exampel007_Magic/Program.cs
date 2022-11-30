@@ -5,13 +5,13 @@ int xa = 40, ya = 1,
     xc = 80, yc = 30;
 
 Console.SetCursorPosition(xa, ya);
-Console.WriteLine("+");
+Console.WriteLine("8");
 
 Console.SetCursorPosition(xb, yb);
-Console.WriteLine("+");
+Console.WriteLine("8");
 
 Console.SetCursorPosition(xc, yc);
-Console.WriteLine("+");
+Console.WriteLine("8");
 
 int x = xa, y = xb;
 
@@ -39,6 +39,6 @@ while(count < 10000)
     }
 
     Console.SetCursorPosition(x, y);
-    Console.WriteLine("+");
+    Console.WriteLine("8");
     count++;
 }
